@@ -1,0 +1,326 @@
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 310-262-748
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.011s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.007s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.005s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:51] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.011s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:51] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.006s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:51] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:52] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:52] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:52] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:52] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.006s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:52] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.006s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.005s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:52] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.007s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.005s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:52] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:52] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:52] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:52] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:52] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:52] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:53] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:53] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:53] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.003s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.005s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:53] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:53] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:53] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:53] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:53] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-abbank-2020.02.13,sensor-abbank-2020.02.12,sensor-abbank-2020.02.11,sensor-abbank-2020.02.10,sensor-abbank-2020.02.09,sensor-abbank-2020.02.08,sensor-abbank-2020.02.07,sensor-abbank-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:53] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmc-corp-2020.02.13,sensor-cmc-corp-2020.02.12,sensor-cmc-corp-2020.02.11,sensor-cmc-corp-2020.02.10,sensor-cmc-corp-2020.02.09,sensor-cmc-corp-2020.02.08,sensor-cmc-corp-2020.02.07,sensor-cmc-corp-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmc-corp-2020.02.13,sensor-cmc-corp-2020.02.12,sensor-cmc-corp-2020.02.11,sensor-cmc-corp-2020.02.10,sensor-cmc-corp-2020.02.09,sensor-cmc-corp-2020.02.08,sensor-cmc-corp-2020.02.07,sensor-cmc-corp-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmc-corp-2020.02.13,sensor-cmc-corp-2020.02.12,sensor-cmc-corp-2020.02.11,sensor-cmc-corp-2020.02.10,sensor-cmc-corp-2020.02.09,sensor-cmc-corp-2020.02.08,sensor-cmc-corp-2020.02.07,sensor-cmc-corp-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmc-corp-2020.02.13,sensor-cmc-corp-2020.02.12,sensor-cmc-corp-2020.02.11,sensor-cmc-corp-2020.02.10,sensor-cmc-corp-2020.02.09,sensor-cmc-corp-2020.02.08,sensor-cmc-corp-2020.02.07,sensor-cmc-corp-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:53] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmc-corp-2020.02.13,sensor-cmc-corp-2020.02.12,sensor-cmc-corp-2020.02.11,sensor-cmc-corp-2020.02.10,sensor-cmc-corp-2020.02.09,sensor-cmc-corp-2020.02.08,sensor-cmc-corp-2020.02.07,sensor-cmc-corp-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmc-corp-2020.02.13,sensor-cmc-corp-2020.02.12,sensor-cmc-corp-2020.02.11,sensor-cmc-corp-2020.02.10,sensor-cmc-corp-2020.02.09,sensor-cmc-corp-2020.02.08,sensor-cmc-corp-2020.02.07,sensor-cmc-corp-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmc-corp-2020.02.13,sensor-cmc-corp-2020.02.12,sensor-cmc-corp-2020.02.11,sensor-cmc-corp-2020.02.10,sensor-cmc-corp-2020.02.09,sensor-cmc-corp-2020.02.08,sensor-cmc-corp-2020.02.07,sensor-cmc-corp-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmc-corp-2020.02.13,sensor-cmc-corp-2020.02.12,sensor-cmc-corp-2020.02.11,sensor-cmc-corp-2020.02.10,sensor-cmc-corp-2020.02.09,sensor-cmc-corp-2020.02.08,sensor-cmc-corp-2020.02.07,sensor-cmc-corp-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:53] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmc-corp-2020.02.13,sensor-cmc-corp-2020.02.12,sensor-cmc-corp-2020.02.11,sensor-cmc-corp-2020.02.10,sensor-cmc-corp-2020.02.09,sensor-cmc-corp-2020.02.08,sensor-cmc-corp-2020.02.07,sensor-cmc-corp-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmc-corp-2020.02.13,sensor-cmc-corp-2020.02.12,sensor-cmc-corp-2020.02.11,sensor-cmc-corp-2020.02.10,sensor-cmc-corp-2020.02.09,sensor-cmc-corp-2020.02.08,sensor-cmc-corp-2020.02.07,sensor-cmc-corp-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmc-corp-2020.02.13,sensor-cmc-corp-2020.02.12,sensor-cmc-corp-2020.02.11,sensor-cmc-corp-2020.02.10,sensor-cmc-corp-2020.02.09,sensor-cmc-corp-2020.02.08,sensor-cmc-corp-2020.02.07,sensor-cmc-corp-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmc-corp-2020.02.13,sensor-cmc-corp-2020.02.12,sensor-cmc-corp-2020.02.11,sensor-cmc-corp-2020.02.10,sensor-cmc-corp-2020.02.09,sensor-cmc-corp-2020.02.08,sensor-cmc-corp-2020.02.07,sensor-cmc-corp-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:53] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmc-corp-2020.02.13,sensor-cmc-corp-2020.02.12,sensor-cmc-corp-2020.02.11,sensor-cmc-corp-2020.02.10,sensor-cmc-corp-2020.02.09,sensor-cmc-corp-2020.02.08,sensor-cmc-corp-2020.02.07,sensor-cmc-corp-2020.02.06/_search [status:503 request:0.007s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmc-corp-2020.02.13,sensor-cmc-corp-2020.02.12,sensor-cmc-corp-2020.02.11,sensor-cmc-corp-2020.02.10,sensor-cmc-corp-2020.02.09,sensor-cmc-corp-2020.02.08,sensor-cmc-corp-2020.02.07,sensor-cmc-corp-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmc-corp-2020.02.13,sensor-cmc-corp-2020.02.12,sensor-cmc-corp-2020.02.11,sensor-cmc-corp-2020.02.10,sensor-cmc-corp-2020.02.09,sensor-cmc-corp-2020.02.08,sensor-cmc-corp-2020.02.07,sensor-cmc-corp-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmc-corp-2020.02.13,sensor-cmc-corp-2020.02.12,sensor-cmc-corp-2020.02.11,sensor-cmc-corp-2020.02.10,sensor-cmc-corp-2020.02.09,sensor-cmc-corp-2020.02.08,sensor-cmc-corp-2020.02.07,sensor-cmc-corp-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:54] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmctshn-2020.02.13,sensor-cmctshn-2020.02.12,sensor-cmctshn-2020.02.11,sensor-cmctshn-2020.02.10,sensor-cmctshn-2020.02.09,sensor-cmctshn-2020.02.08,sensor-cmctshn-2020.02.07,sensor-cmctshn-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmctshn-2020.02.13,sensor-cmctshn-2020.02.12,sensor-cmctshn-2020.02.11,sensor-cmctshn-2020.02.10,sensor-cmctshn-2020.02.09,sensor-cmctshn-2020.02.08,sensor-cmctshn-2020.02.07,sensor-cmctshn-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmctshn-2020.02.13,sensor-cmctshn-2020.02.12,sensor-cmctshn-2020.02.11,sensor-cmctshn-2020.02.10,sensor-cmctshn-2020.02.09,sensor-cmctshn-2020.02.08,sensor-cmctshn-2020.02.07,sensor-cmctshn-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmctshn-2020.02.13,sensor-cmctshn-2020.02.12,sensor-cmctshn-2020.02.11,sensor-cmctshn-2020.02.10,sensor-cmctshn-2020.02.09,sensor-cmctshn-2020.02.08,sensor-cmctshn-2020.02.07,sensor-cmctshn-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:54] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmctshn-2020.02.13,sensor-cmctshn-2020.02.12,sensor-cmctshn-2020.02.11,sensor-cmctshn-2020.02.10,sensor-cmctshn-2020.02.09,sensor-cmctshn-2020.02.08,sensor-cmctshn-2020.02.07,sensor-cmctshn-2020.02.06/_search [status:503 request:0.006s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmctshn-2020.02.13,sensor-cmctshn-2020.02.12,sensor-cmctshn-2020.02.11,sensor-cmctshn-2020.02.10,sensor-cmctshn-2020.02.09,sensor-cmctshn-2020.02.08,sensor-cmctshn-2020.02.07,sensor-cmctshn-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmctshn-2020.02.13,sensor-cmctshn-2020.02.12,sensor-cmctshn-2020.02.11,sensor-cmctshn-2020.02.10,sensor-cmctshn-2020.02.09,sensor-cmctshn-2020.02.08,sensor-cmctshn-2020.02.07,sensor-cmctshn-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmctshn-2020.02.13,sensor-cmctshn-2020.02.12,sensor-cmctshn-2020.02.11,sensor-cmctshn-2020.02.10,sensor-cmctshn-2020.02.09,sensor-cmctshn-2020.02.08,sensor-cmctshn-2020.02.07,sensor-cmctshn-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:54] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmctshn-2020.02.13,sensor-cmctshn-2020.02.12,sensor-cmctshn-2020.02.11,sensor-cmctshn-2020.02.10,sensor-cmctshn-2020.02.09,sensor-cmctshn-2020.02.08,sensor-cmctshn-2020.02.07,sensor-cmctshn-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmctshn-2020.02.13,sensor-cmctshn-2020.02.12,sensor-cmctshn-2020.02.11,sensor-cmctshn-2020.02.10,sensor-cmctshn-2020.02.09,sensor-cmctshn-2020.02.08,sensor-cmctshn-2020.02.07,sensor-cmctshn-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmctshn-2020.02.13,sensor-cmctshn-2020.02.12,sensor-cmctshn-2020.02.11,sensor-cmctshn-2020.02.10,sensor-cmctshn-2020.02.09,sensor-cmctshn-2020.02.08,sensor-cmctshn-2020.02.07,sensor-cmctshn-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmctshn-2020.02.13,sensor-cmctshn-2020.02.12,sensor-cmctshn-2020.02.11,sensor-cmctshn-2020.02.10,sensor-cmctshn-2020.02.09,sensor-cmctshn-2020.02.08,sensor-cmctshn-2020.02.07,sensor-cmctshn-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:54] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmctshn-2020.02.13,sensor-cmctshn-2020.02.12,sensor-cmctshn-2020.02.11,sensor-cmctshn-2020.02.10,sensor-cmctshn-2020.02.09,sensor-cmctshn-2020.02.08,sensor-cmctshn-2020.02.07,sensor-cmctshn-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmctshn-2020.02.13,sensor-cmctshn-2020.02.12,sensor-cmctshn-2020.02.11,sensor-cmctshn-2020.02.10,sensor-cmctshn-2020.02.09,sensor-cmctshn-2020.02.08,sensor-cmctshn-2020.02.07,sensor-cmctshn-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmctshn-2020.02.13,sensor-cmctshn-2020.02.12,sensor-cmctshn-2020.02.11,sensor-cmctshn-2020.02.10,sensor-cmctshn-2020.02.09,sensor-cmctshn-2020.02.08,sensor-cmctshn-2020.02.07,sensor-cmctshn-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-cmctshn-2020.02.13,sensor-cmctshn-2020.02.12,sensor-cmctshn-2020.02.11,sensor-cmctshn-2020.02.10,sensor-cmctshn-2020.02.09,sensor-cmctshn-2020.02.08,sensor-cmctshn-2020.02.07,sensor-cmctshn-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:54] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-vnpost-2020.02.13,sensor-vnpost-2020.02.12,sensor-vnpost-2020.02.11,sensor-vnpost-2020.02.10,sensor-vnpost-2020.02.09,sensor-vnpost-2020.02.08,sensor-vnpost-2020.02.07,sensor-vnpost-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-vnpost-2020.02.13,sensor-vnpost-2020.02.12,sensor-vnpost-2020.02.11,sensor-vnpost-2020.02.10,sensor-vnpost-2020.02.09,sensor-vnpost-2020.02.08,sensor-vnpost-2020.02.07,sensor-vnpost-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-vnpost-2020.02.13,sensor-vnpost-2020.02.12,sensor-vnpost-2020.02.11,sensor-vnpost-2020.02.10,sensor-vnpost-2020.02.09,sensor-vnpost-2020.02.08,sensor-vnpost-2020.02.07,sensor-vnpost-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-vnpost-2020.02.13,sensor-vnpost-2020.02.12,sensor-vnpost-2020.02.11,sensor-vnpost-2020.02.10,sensor-vnpost-2020.02.09,sensor-vnpost-2020.02.08,sensor-vnpost-2020.02.07,sensor-vnpost-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:54] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-vnpost-2020.02.13,sensor-vnpost-2020.02.12,sensor-vnpost-2020.02.11,sensor-vnpost-2020.02.10,sensor-vnpost-2020.02.09,sensor-vnpost-2020.02.08,sensor-vnpost-2020.02.07,sensor-vnpost-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-vnpost-2020.02.13,sensor-vnpost-2020.02.12,sensor-vnpost-2020.02.11,sensor-vnpost-2020.02.10,sensor-vnpost-2020.02.09,sensor-vnpost-2020.02.08,sensor-vnpost-2020.02.07,sensor-vnpost-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-vnpost-2020.02.13,sensor-vnpost-2020.02.12,sensor-vnpost-2020.02.11,sensor-vnpost-2020.02.10,sensor-vnpost-2020.02.09,sensor-vnpost-2020.02.08,sensor-vnpost-2020.02.07,sensor-vnpost-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-vnpost-2020.02.13,sensor-vnpost-2020.02.12,sensor-vnpost-2020.02.11,sensor-vnpost-2020.02.10,sensor-vnpost-2020.02.09,sensor-vnpost-2020.02.08,sensor-vnpost-2020.02.07,sensor-vnpost-2020.02.06/_search [status:503 request:0.005s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:54] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-vnpost-2020.02.13,sensor-vnpost-2020.02.12,sensor-vnpost-2020.02.11,sensor-vnpost-2020.02.10,sensor-vnpost-2020.02.09,sensor-vnpost-2020.02.08,sensor-vnpost-2020.02.07,sensor-vnpost-2020.02.06/_search [status:503 request:0.005s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-vnpost-2020.02.13,sensor-vnpost-2020.02.12,sensor-vnpost-2020.02.11,sensor-vnpost-2020.02.10,sensor-vnpost-2020.02.09,sensor-vnpost-2020.02.08,sensor-vnpost-2020.02.07,sensor-vnpost-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-vnpost-2020.02.13,sensor-vnpost-2020.02.12,sensor-vnpost-2020.02.11,sensor-vnpost-2020.02.10,sensor-vnpost-2020.02.09,sensor-vnpost-2020.02.08,sensor-vnpost-2020.02.07,sensor-vnpost-2020.02.06/_search [status:503 request:0.011s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-vnpost-2020.02.13,sensor-vnpost-2020.02.12,sensor-vnpost-2020.02.11,sensor-vnpost-2020.02.10,sensor-vnpost-2020.02.09,sensor-vnpost-2020.02.08,sensor-vnpost-2020.02.07,sensor-vnpost-2020.02.06/_search [status:503 request:0.004s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:54] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-vnpost-2020.02.13,sensor-vnpost-2020.02.12,sensor-vnpost-2020.02.11,sensor-vnpost-2020.02.10,sensor-vnpost-2020.02.09,sensor-vnpost-2020.02.08,sensor-vnpost-2020.02.07,sensor-vnpost-2020.02.06/_search [status:503 request:0.004s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-vnpost-2020.02.13,sensor-vnpost-2020.02.12,sensor-vnpost-2020.02.11,sensor-vnpost-2020.02.10,sensor-vnpost-2020.02.09,sensor-vnpost-2020.02.08,sensor-vnpost-2020.02.07,sensor-vnpost-2020.02.06/_search [status:503 request:0.003s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-vnpost-2020.02.13,sensor-vnpost-2020.02.12,sensor-vnpost-2020.02.11,sensor-vnpost-2020.02.10,sensor-vnpost-2020.02.09,sensor-vnpost-2020.02.08,sensor-vnpost-2020.02.07,sensor-vnpost-2020.02.06/_search [status:503 request:0.003s]
+elasticsearch - WARNING - GET http://192.168.1.206:9200/sensor-vnpost-2020.02.13,sensor-vnpost-2020.02.12,sensor-vnpost-2020.02.11,sensor-vnpost-2020.02.10,sensor-vnpost-2020.02.09,sensor-vnpost-2020.02.08,sensor-vnpost-2020.02.07,sensor-vnpost-2020.02.06/_search [status:503 request:0.003s]
+root - ERROR - Cannot connect to Elasticsearch to get training timeseries data
+root - ERROR - TransportError(503, 'search_phase_execution_exception')
+root - ERROR - No exist data to training model
+root - ERROR - The training data is Node
+werkzeug - INFO - 127.0.0.1 - - [13/Feb/2020 16:42:54] "[1m[31mPUT /api/v1/models/ HTTP/1.1[0m" 400 -

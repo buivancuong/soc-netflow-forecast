@@ -1,0 +1,66 @@
+{
+    "dir": {
+        "project_dir": "./soc_lda",
+        "data_dir": "./soc_tsa/data/",
+        "models_dir": "./soc_tsa/models/",
+        "sqlite": "./soc_tsa/data/models.db"
+    },
+    "elasticsearch": {
+        "ids": "http://10.24.240.150:9200/",
+        "netflow": "http://192.168.1.206:9200/",
+        "tsa_es": "http://10.24.240.41:9200/",
+        "tsa_index": "soc-tsa-",
+        "ts_field": {
+            "in-bytes": "IN_BYTES",
+            "out-bytes": "OUT_BYTES",
+            "in-pkts": "IN_PKTS",
+            "out-pkts": "OUT_PKTS"
+        }
+    },
+    "model": {
+        "bucket_interval": 300
+    },
+    "params": {
+        "sensor": [
+            "sensor-abbank-01",
+            "sensor-abbank-02",
+            "sensor-abbank-03",
+            "sensor-abbank-04",
+            "sensor-abbank-05",
+            "sensor-abbank-06",
+            "sensor-cmc-corp",
+            "sensor-cmctshn-01",
+            "Sensor-vnpost-01"
+        ],
+        "algorithm_model": [
+            "ae-lstm",
+            "sax-lstm"
+        ],
+        "ts_field": [
+            "in-bytes",
+            "out-bytes",
+            "in-pkts",
+            "out-pkts"
+        ],
+        "scaler": {
+            "sensor": {
+                "sensor-abbank-01": 1,
+                "sensor-abbank-02": 10,
+                "sensor-abbank-03": 1,
+                "sensor-abbank-04": 1,
+                "sensor-abbank-05": 1,
+                "sensor-abbank-06": 10,
+                "sensor-cmc-corp": 1,
+                "sensor-cmctshn-01": 10,
+                "Sensor-vnpost-01": 10
+            },
+            "ts_field": {
+                "in-bytes": 10000000,
+                "out-bytes": 100000000,
+                "in-pkts": 100000,
+                "out-pkts": 10000,
+                "count": 1000
+            }
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "dir": {
+        "home_dir": "/home/cuongbv/",
+        "project_dir": "/home/cuongbv/Project/tian-ml/soc_lda",
+        "data_dir": "/home/cuongbv/Project/tian-ml/soc_tsa/data/",
+        "models_dir": "/home/cuongbv/Project/tian-ml/soc_tsa/models/",
+        "sqlite": "/home/cuongbv/Project/tian-ml/soc_tsa/data/models.db"
+    },
+    "elasticsearch": {
+        "ids": "http://10.24.240.150:9200/",
+        "netflow": "http://192.168.1.206:9200/"
+    },
+    "model": {
+        "bucket_interval": 300
+    }
+}
